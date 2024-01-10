@@ -9,7 +9,7 @@ import (
 	// "golearning/dir1"
 	//this illustarte how directory and it's sub-directory being used whenever they uses same or different packages.
 
-	"golearning/simpleAlgos"
+	simplealgos "golearning/simpleAlgos"
 	"os"
 	// "strconv"
 )
@@ -92,6 +92,7 @@ func main() {
 	// panicFunction()
 	// leakyBuffer2()
 
+	//i am here writing this comment to test git rebase command.
 	//i am here writing this comment to test git rebase command.
 }
 
